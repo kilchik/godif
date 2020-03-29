@@ -1,0 +1,3 @@
+github.com/libgit2/git2go v27.10.0+incompatible h1:P7zNuI907L1Nz7ifXcYKDw9Y8xCOLrnTbyH1gqxcIX8=
+github.com/libgit2/git2go/v29 v29.0.1 h1:BKp6x6/qYc9Q+3/XuVeGFZgFekNqGA4/8aRaKh3Pp2s=
+github.com/libgit2/git2go/v29 v29.0.1/go.mod h1:GnXk1stNspaGKX8uisx1aGefUwLxzc6Ad+PfdVpEKhQ=
